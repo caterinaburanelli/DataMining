@@ -1,11 +1,8 @@
 # Data Mining Techniques
-Data Mining Techniques Assignments
 
-### Requirements
-Note: creating a new virtual environment is recommended.
+### Caterina Buranelli, Ignas Krikstaponis, Lotte Felius
 
-To install the requirements run in your terminal
+Assigments for Data Mining Techniques course at VU Amsterdam
 
-```
-pip install -r requirements.txt 
-```
+* Basic Assignment - EDA, Kaggle's Titanic competition, basic NLP - [Report](https://github.com/caterinaburanelli/DataMining/blob/main/basic_assignment/Report/datamining_a1.pdf)
+* Assignment 2 - Building a hotel ranking algorithm with Expedia's data (LambdaMART and Random Forest) - [Report](https://github.com/caterinaburanelli/DataMining/blob/main/assignment2/Report/datamining_2_group_29.pdf), [Process report](https://github.com/caterinaburanelli/DataMining/blob/main/assignment2/Report/datamining_process_report.pdf)
